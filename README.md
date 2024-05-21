@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2f/aa/a6/2faaa6d7145e996ddfbf04c703b9097f.jpg" width="500" height="300">
+</p>
 
 <!-- welcome message -->
 <h2>¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
