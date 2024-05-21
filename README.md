@@ -19,9 +19,9 @@ Mi correo para contacto 📩: antoniopalaciosorihuela@gmail.com
 <h3 align="left">¡Sígueme en mis redes sociales!</h3>
 <p align="left">
 
-<a href="https://twitter.com/antonio_bch" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/antoniopalacioso" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://instagram.com/antonio.xrp" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://twitter.com/antonio_bch" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/antoniopalacioso" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://instagram.com/antonio.xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 <!--
 **antonio-xrp/antonio-xrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
