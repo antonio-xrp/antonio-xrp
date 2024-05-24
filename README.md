@@ -27,7 +27,7 @@ Mi correo para contacto 📩: antoniopalaciosorihuela@gmail.com
 </p>
 
 ### 📕 Últimos artículos
-- pronto
+- [Simple and Exponential Moving Average (SMA-EMA)](https://github.com/antonio-xrp/Data-science-for-finance-ES-EN/blob/main/notebooks/analisis-tecnico/0.1-ema-sma.ipynb) 🐱‍👤
 <!--
 **antonio-xrp/antonio-xrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
