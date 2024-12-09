@@ -9,7 +9,7 @@
 
 <!-- About me -->
 <p>
-Mi nombre es Antonio Palacios, Ingeniero Industrial y científico de datos y me apacionan las finanzas descentralizadas.📈
+Mi nombre es Antonio Palacios, Ingeniero Industrial y científico de datos.Me gustan los mercados financieros e ir al Gym.📈
 
 Mi correo para contacto 📩: palaciosorihuelaantonio@gmail.com
 </p>
