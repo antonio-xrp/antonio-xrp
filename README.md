@@ -22,11 +22,9 @@ Mi correo para contacto 📩: palaciosorihuelaantonio@gmail.com
 <a href="https://instagram.com/antonio.xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 
-### 📕 Últimos artículos
-- [Costó médico - DAta Analysis](https://github.com/antonio-xrp/regresion-lineal/blob/main/notebooks/0.3-antoniolml-medical-cost.ipynb)
-- [Predicción cardiovascular- Data Analysis & Machine learning](https://github.com/antonio-xrp/Cardiovascular-EDA-modeling/blob/main/notebooks/0.1-antonioxrp-cardiovascular-analysis.ipynb)
-- [Recomendación de película - Data Analysis & Machine learning](https://github.com/antonio-xrp/regresion-lineal/blob/main/notebooks/0.3-antoniolml-medical-cost.ipynb)
-- [Simple and Exponential Moving Average (SMA-EMA)](https://github.com/antonio-xrp/Data-science-for-finance-ES-EN/blob/main/notebooks/analisis-tecnico/0.1-ema-sma.ipynb) 🐱‍👤
+### 📕 Proyectos
+- [Análisis de datos exploratorio (EDA)](https://github.com/antonio-xrp/Data-Analysis-Portfolio)
+
 <!--
 **antonio-xrp/antonio-xrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
