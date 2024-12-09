@@ -9,20 +9,16 @@
 
 <!-- About me -->
 <p>
-Mi nombre es Antonio Palacios un Ingeniero Industrial que se enamoró de la programación en python y los datos. Esta pasión me llevó a la Ciencia de Datos y, en particular, a su aplicación en el mundo financiero.📈
+Mi nombre es Antonio Palacios, Ingeniero Industrial y científico de datos y me apacionan las finanzas descentralizadas.📈
 
-Lamentablemente, observé que los recursos en español sobre este tema eran escasos. Así que decidí actuar y compartir mis proyectos de una manera educativa. Mi meta es proporcionar recursos valiosos para aquellos interesados en este campo.
-
-Por lo tanto, aquí estoy, compartiendo mi portafolio de Ciencia de Datos y Ciencia de Datos para Finanzas. ¡Espero que encuentres estos recursos útiles en tu viaje de aprendizaje! 🔬  😁
-
-Mi correo para contacto 📩: antoniopalaciosorihuela@gmail.com
+Mi correo para contacto 📩: palaciosorihuelaantonio@gmail.com
 </p>
 
 <h3 align="left">¡Sígueme en mis redes sociales!</h3>
 <p align="left">
 
 <a href="https://twitter.com/antonio_bch" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/antoniopalacioso" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/antonio-palacios-orihuela-xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://instagram.com/antonio.xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 
