@@ -22,8 +22,8 @@ Mi correo para contacto 📩: palaciosorihuelaantonio@gmail.com
 <a href="https://instagram.com/antonio.xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 
-### 📕 Proyectos
-- [Análisis de datos exploratorio (EDA)](https://github.com/antonio-xrp/Data-Analysis-Portfolio)
+### 📕 Publicaciones
+- [Proyectos de Análisis de datos exploratorio (EDA)](https://github.com/antonio-xrp/Data-Analysis-Portfolio)
 
 <!--
 **antonio-xrp/antonio-xrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
