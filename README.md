@@ -1,41 +1,43 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2f/aa/a6/2faaa6d7145e996ddfbf04c703b9097f.jpg" width="500" height="300">
-</p>
+# Hi, I'm Antonio Palacios  👋
 
-<!-- welcome message -->
-<h2>¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+I'm an Industrial Engineer focused on Data Science, Data Analytics, and Python Automation.
 
-<h3>¡Es un placer verte por aquí!</h3>
+I build data-driven solutions to automate processes, analyze information, and support better business decisions.
 
-<!-- About me -->
-<p>
-Mi nombre es Antonio Palacios, Ingeniero Industrial y científico de datos.Me gustan los mercados financieros e ir al Gym.📈
+My background combines Industrial Engineering, supply chain analytics, and process optimization. I'm currently expanding my skills in Machine Learning, Data Engineering, and MLOps.
 
-Mi correo para contacto 📩: palaciosorihuelaantonio@gmail.com
-</p>
+⚡⚡
+>  **“The present is theirs; the future, for which I really worked, is mine.”**  
+> — *Nikola Tesla*
 
-<h3 align="left">¡Sígueme en mis redes sociales!</h3>
-<p align="left">
 
-<a href="https://twitter.com/antonio_bch" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/antonio-palacios-orihuela-xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://instagram.com/antonio.xrp" target="_blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
-</p>
+### 👨‍💻 About Me
+---
 
-### 📕 Publicaciones
-- [Proyectos de Análisis de datos exploratorio (EDA)](https://github.com/antonio-xrp/Data-Analysis-Portfolio)
+-  Industrial Engineer with experience in supply chain analytics and process automation using Python.
+- Focused on applying Data Science to real-world business problems.
+- Currently learning Machine Learning, Data Engineering, and MLOps.
+- Passionate about world history and music.
 
-<!--
-**antonio-xrp/antonio-xrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Streamlit
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- XGBoost
+- Simulation
+- Git & GitHub
+
+
+### 📫 Connect with Me
+---
+
+- LinkedIn: [ANTONIO PALACIOS](https://www.linkedin.com/in/antonio-palacios-orihuela-xrp/)
+- gmail: palaciosorihuelaantonio@gmail.com
