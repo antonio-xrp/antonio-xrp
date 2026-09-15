@@ -13,7 +13,6 @@ My background combines Industrial Engineering, supply chain analytics, and proce
 
 ## 👨‍💻 About Me
 
-
 - 🛠️ Industrial Engineer with experience in supply chain analytics and process automation using Python. 
 - 📊 Focused on applying Data Science to real-world business problems.
 - 📖 Currently learning Machine Learning, Data Engineering, and MLOps.
